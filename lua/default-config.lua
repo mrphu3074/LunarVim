@@ -8,7 +8,7 @@ O = {
   keys = {
     leader_key = "space",
   },
-  colorscheme = "spacegray",
+  colorscheme = "tokyonight",
   line_wrap_cursor_movement = true,
   transparent_window = false,
   format_on_save = true,

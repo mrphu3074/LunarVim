@@ -244,4 +244,8 @@ return {
     "scalameta/nvim-metals",
     disable = not O.lang.scala.metals.active,
   },
+  -- Theme 
+  {
+    "folke/tokyonight.nvim"
+  }
 }
